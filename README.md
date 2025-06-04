@@ -1,4 +1,4 @@
-🎬 Web Series Recommender
+# 🎬 Web Series Recommender
 A simple yet powerful content-based recommendation system for web series, built with Python, scikit-learn, and Streamlit.
 
 🔍 Features:
