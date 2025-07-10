@@ -40,6 +40,8 @@ streamlit run app.py
 
 This will open the app in your browser at http://localhost:8501
 
+---
+
 ### **🔐 API Key Setup**
 This app uses the free OMDb API
 
@@ -50,6 +52,8 @@ This app uses the free OMDb API
 ```bash
 API_KEY = "your_omdb_api_key_here"
 ```
+
+---
 
 # 📁 File Structure
 
@@ -62,6 +66,8 @@ omdb-recommender/
 └── README.md          # You’re reading it :)
 ```
 
+---
+
 # 🚀 Deployment
 You can deploy this app to Streamlit Cloud for free:
 
@@ -70,6 +76,8 @@ You can deploy this app to Streamlit Cloud for free:
 - Connect your repo
 - Set app.py as the main file
 - BOOM. You’re live 🚀
+
+---
 
 # 🧠 How It Works
 When a user enters a title or genre, it:
@@ -87,3 +95,5 @@ Each card shows:
 - Genre
 - Plot (trimmed)
 - Link to IMDb page
+
+---
