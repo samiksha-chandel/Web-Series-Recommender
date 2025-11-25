@@ -96,4 +96,7 @@ Each card shows:
 - Plot (trimmed)
 - Link to IMDb page
 
+
+<img width="1920" height="1016" alt="recommendations" src="https://github.com/user-attachments/assets/f37db6bf-ff0c-4c6c-a29f-ee6575c8b6c0" />
+
 ---
